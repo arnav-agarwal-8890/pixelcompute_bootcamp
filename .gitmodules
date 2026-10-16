@@ -4,3 +4,6 @@
 [submodule "WordleGame"]
 	path = WordleGame
 	url = https://github.com/arnav-agarwal-8890/WordleGame.git
+[submodule "CurrencyConverter"]
+	path = CurrencyConverter
+	url = https://github.com/arnav-agarwal-8890/CurrencyConverter.git
