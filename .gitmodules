@@ -10,6 +10,3 @@
 [submodule "To-DoList"]
 	path = To-DoList
 	url = https://github.com/arnav-agarwal-8890/To-DoList.git
-[submodule "ToDoList"]
-	path = ToDoList
-	url = https://github.com/arnav-agarwal-8890/To-DoList.git
